@@ -1,16 +1,33 @@
-## Hi there 👋
+## 🚀 About Me
+I am Jose Daniel Chocoy Cordon, a tenth-semester systems engineering student, about to graduate.
 
-<!--
-**Josecc12/Josecc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- **University:** Rafael Landivar University
+- **Degree:** Systems Engineering
+- **Semester:** Tenth
+- **GPA:** 90 points
 
-Here are some ideas to get you started:
+### 💼 Professional Experience
+- **Frontend Developer at Tinbrew**
+  - Web application developer in Next.js, currently part of the development team for [findoctor.com](https://www.findoctor.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Programming Languages:** JavaScript, Python, Java
+- **Technologies and Tools:** React, Next.js, Node.js, SQL
+- **Languages:** Spanish, Intermediate English
+
+### 🚀 Interests
+- **Professional Interests:** Web Development, UX/UI Development
+- **Hobbies:** Video game programming, athletics, gym
+
+### 🏆 Achievements and Recognitions
+- **Academic Awards:**
+  - Academic Excellence URL 2020-2024
+
+### 📞 Contact
+- **Email:** josedanielchocoy@gmail.com
+- **LinkedIn:** [Jose Daniel](https://www.linkedin.com/in/jos%C3%A9-daniel-chocoy-cordon-12079b277/)
+- **GitHub:** [Josecc12](https://github.com/Josecc12)
+
+### 🌐 Personal Projects
+- **Portfolio:** https://portfolio-jbru49e1o-daniel-chocoys-projects.vercel.app/
